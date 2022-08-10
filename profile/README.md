@@ -8,9 +8,7 @@ So we collected a team, and formed an agency, to solve all your digital problems
 
 - Web Development,
 - Shopify Development,
-- UI/UX design, 
-- Graphics design, 
-- Motion graphics / Video editing, 
+- UI/UX design,
 - Digital marketing
 
 Excited to generate your crucial results!
