@@ -6,9 +6,8 @@ We understand that. We have been there.
 
 So we collected a team, and formed an agency, to solve all your digital problems through our services:
 
-- Web Development,
-- Shopify Development,
-- UI/UX design,
+- Web Development
+- UI/UX design
 - Digital marketing
 
 Excited to generate your crucial results!
